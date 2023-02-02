@@ -1,0 +1,8 @@
+D:\+UNAB+\GitHub\Program-3\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe.config
+D:\+UNAB+\GitHub\Program-3\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe
+D:\+UNAB+\GitHub\Program-3\AbstractClass\AbstractClass\bin\Debug\AbstractClass.pdb
+D:\+UNAB+\GitHub\Program-3\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.AssemblyReference.cache
+D:\+UNAB+\GitHub\Program-3\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.SuggestedBindingRedirects.cache
+D:\+UNAB+\GitHub\Program-3\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
+D:\+UNAB+\GitHub\Program-3\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe
+D:\+UNAB+\GitHub\Program-3\AbstractClass\AbstractClass\obj\Debug\AbstractClass.pdb
