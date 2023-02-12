@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5F34A743-7B95-410A-B2F8-4AE5C11FD949}</ProjectGuid>
+    <ProjectGuid>{8D0D1F08-7AF8-4C56-988A-CCDA03E1FB6A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AbstractClass</RootNamespace>
-    <AssemblyName>AbstractClass</AssemblyName>
+    <RootNamespace>Inmuebles</RootNamespace>
+    <AssemblyName>Inmuebles</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
