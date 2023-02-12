@@ -67,7 +67,7 @@ namespace Inmuebles
 
         public override string Datos()
         { 
-            return "Tipo-contrato: " + tipo;
+            return "Tipo-contrato: " + nombre;
         }
     }
 
@@ -93,17 +93,17 @@ namespace Inmuebles
 
             if (eleccion == 1)
             {
-                
+                tipo = "Total";
             }
-            else if (opc == 2)
+            else if (eleccion == 2)
             {
                 tipo = "Parcial";
             }
-            else if (opc == 3)
+            else if (eleccion == 3)
             {
                 tipo = "Temporal";
             }
-            else if (opc == 4)
+            else if (eleccion == 4)
             {
                 tipo = "Indefinido";
             }
@@ -113,13 +113,13 @@ namespace Inmuebles
             }
 
             Cliente c = new Cliente(nombre);
-           
+            Contrato cntrt = new Contrato(tipo);
+
 
             if (opc == 1)
             {
                 Empleado e = new Empleado(Asesores.asesor1);
-                Inmueble i = new Inmueble(n, t, ds, double.Parse(p));
-                Contrato cntrt = new Contrato(tipo);
+                Inmueble i = new Inmueble(n, t, ds, double.Parse(p));               
 
                 WriteLine("\n-------------------------Detalles-------------------------");
                 WriteLine(e.Datos());
@@ -132,7 +132,6 @@ namespace Inmuebles
             {
                 Empleado e = new Empleado(Asesores.asesor2);
                 Inmueble i = new Inmueble(n, t, ds, double.Parse(p));
-                Contrato cntrt = new Contrato(tipo);
 
                 WriteLine("\n-------------------------Detalles-------------------------");
                 WriteLine(e.Datos());
@@ -148,7 +147,6 @@ namespace Inmuebles
     {
         public static string asesor1;
         public static string asesor2;
-        public static int eleccion;
     }
 
     class Program
@@ -160,16 +158,14 @@ namespace Inmuebles
             while (true)
             {               
                 WriteLine("\nOpciones disponibles: ");
-                WriteLine("1-Apartamento." + 
-                    "\n2-Edificio." + 
-                    "\n3-Hacienda." + 
-                    "\n4-Casa." +
-                    "\n5-Salir.");
+                WriteLine("1-Apartamento." +
+                    "\n2-Edificio." +
+                    "\n3-Hacienda." +
+                    "\n4-Casa.");
 
                 Write("\nElige una opción: ");
                 int opc = int.Parse(ReadLine());
 
-                //Cliente c = new Cliente();
                 Informacion i = new Informacion();
                 Asesores a = new Asesores();
 
@@ -210,10 +206,10 @@ namespace Inmuebles
                         break;
                     }
 
-                    case 5:
-                    {
-                        break;
-                    }
+                    //case 5:
+                    //{
+                    //    break;
+                    //}
 
                     default:
                         WriteLine("\nOpción incorrecta!");

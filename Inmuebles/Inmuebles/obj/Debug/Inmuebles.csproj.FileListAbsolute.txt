@@ -2,7 +2,6 @@ C:\Users\frank\Downloads\Inmuebles\Inmuebles\bin\Debug\Inmuebles.exe.config
 C:\Users\frank\Downloads\Inmuebles\Inmuebles\bin\Debug\Inmuebles.exe
 C:\Users\frank\Downloads\Inmuebles\Inmuebles\bin\Debug\Inmuebles.pdb
 C:\Users\frank\Downloads\Inmuebles\Inmuebles\obj\Debug\Inmuebles.csproj.AssemblyReference.cache
-C:\Users\frank\Downloads\Inmuebles\Inmuebles\obj\Debug\Inmuebles.csproj.SuggestedBindingRedirects.cache
 C:\Users\frank\Downloads\Inmuebles\Inmuebles\obj\Debug\Inmuebles.csproj.CoreCompileInputs.cache
 C:\Users\frank\Downloads\Inmuebles\Inmuebles\obj\Debug\Inmuebles.exe
 C:\Users\frank\Downloads\Inmuebles\Inmuebles\obj\Debug\Inmuebles.pdb
