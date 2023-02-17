@@ -1,0 +1,8 @@
+C:\Users\frank\Downloads\Bebidas\Bebidas\bin\Debug\Bebidas.exe.config
+C:\Users\frank\Downloads\Bebidas\Bebidas\bin\Debug\Bebidas.exe
+C:\Users\frank\Downloads\Bebidas\Bebidas\bin\Debug\Bebidas.pdb
+C:\Users\frank\Downloads\Bebidas\Bebidas\obj\Debug\Bebidas.csproj.AssemblyReference.cache
+C:\Users\frank\Downloads\Bebidas\Bebidas\obj\Debug\Bebidas.csproj.SuggestedBindingRedirects.cache
+C:\Users\frank\Downloads\Bebidas\Bebidas\obj\Debug\Bebidas.csproj.CoreCompileInputs.cache
+C:\Users\frank\Downloads\Bebidas\Bebidas\obj\Debug\Bebidas.exe
+C:\Users\frank\Downloads\Bebidas\Bebidas\obj\Debug\Bebidas.pdb
