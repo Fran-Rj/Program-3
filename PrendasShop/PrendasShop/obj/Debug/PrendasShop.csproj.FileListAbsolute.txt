@@ -1,0 +1,22 @@
+D:\PrendasShop\PrendasShop\bin\Debug\PrendasShop.exe.config
+D:\PrendasShop\PrendasShop\bin\Debug\PrendasShop.exe
+D:\PrendasShop\PrendasShop\bin\Debug\PrendasShop.pdb
+D:\PrendasShop\PrendasShop\obj\Debug\PrendasShop.csproj.AssemblyReference.cache
+D:\PrendasShop\PrendasShop\obj\Debug\PrendasShop.csproj.SuggestedBindingRedirects.cache
+D:\PrendasShop\PrendasShop\obj\Debug\PrendasShop.csproj.CoreCompileInputs.cache
+D:\PrendasShop\PrendasShop\obj\Debug\PrendasShop.exe
+D:\PrendasShop\PrendasShop\obj\Debug\PrendasShop.pdb
+E:\PrendasShop\PrendasShop\bin\Debug\PrendasShop.exe.config
+E:\PrendasShop\PrendasShop\bin\Debug\PrendasShop.exe
+E:\PrendasShop\PrendasShop\bin\Debug\PrendasShop.pdb
+E:\PrendasShop\PrendasShop\obj\Debug\PrendasShop.csproj.AssemblyReference.cache
+E:\PrendasShop\PrendasShop\obj\Debug\PrendasShop.csproj.CoreCompileInputs.cache
+E:\PrendasShop\PrendasShop\obj\Debug\PrendasShop.exe
+E:\PrendasShop\PrendasShop\obj\Debug\PrendasShop.pdb
+D:\+UNAB+\Ciclo - V\Program III\PrendasShop\PrendasShop\bin\Debug\PrendasShop.exe.config
+D:\+UNAB+\Ciclo - V\Program III\PrendasShop\PrendasShop\bin\Debug\PrendasShop.exe
+D:\+UNAB+\Ciclo - V\Program III\PrendasShop\PrendasShop\bin\Debug\PrendasShop.pdb
+D:\+UNAB+\Ciclo - V\Program III\PrendasShop\PrendasShop\obj\Debug\PrendasShop.csproj.AssemblyReference.cache
+D:\+UNAB+\Ciclo - V\Program III\PrendasShop\PrendasShop\obj\Debug\PrendasShop.csproj.CoreCompileInputs.cache
+D:\+UNAB+\Ciclo - V\Program III\PrendasShop\PrendasShop\obj\Debug\PrendasShop.exe
+D:\+UNAB+\Ciclo - V\Program III\PrendasShop\PrendasShop\obj\Debug\PrendasShop.pdb
