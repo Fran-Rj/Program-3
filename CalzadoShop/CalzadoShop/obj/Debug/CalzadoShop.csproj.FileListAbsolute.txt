@@ -1,0 +1,15 @@
+D:\CalzadoShop\CalzadoShop\obj\Debug\CalzadoShop.csproj.AssemblyReference.cache
+D:\CalzadoShop\CalzadoShop\obj\Debug\CalzadoShop.csproj.SuggestedBindingRedirects.cache
+D:\CalzadoShop\CalzadoShop\obj\Debug\CalzadoShop.csproj.CoreCompileInputs.cache
+D:\CalzadoShop\CalzadoShop\bin\Debug\CalzadoShop.exe.config
+D:\CalzadoShop\CalzadoShop\bin\Debug\CalzadoShop.exe
+D:\CalzadoShop\CalzadoShop\bin\Debug\CalzadoShop.pdb
+D:\CalzadoShop\CalzadoShop\obj\Debug\CalzadoShop.exe
+D:\CalzadoShop\CalzadoShop\obj\Debug\CalzadoShop.pdb
+E:\CalzadoShop\CalzadoShop\bin\Debug\CalzadoShop.exe.config
+E:\CalzadoShop\CalzadoShop\bin\Debug\CalzadoShop.exe
+E:\CalzadoShop\CalzadoShop\bin\Debug\CalzadoShop.pdb
+E:\CalzadoShop\CalzadoShop\obj\Debug\CalzadoShop.csproj.AssemblyReference.cache
+E:\CalzadoShop\CalzadoShop\obj\Debug\CalzadoShop.csproj.CoreCompileInputs.cache
+E:\CalzadoShop\CalzadoShop\obj\Debug\CalzadoShop.exe
+E:\CalzadoShop\CalzadoShop\obj\Debug\CalzadoShop.pdb
