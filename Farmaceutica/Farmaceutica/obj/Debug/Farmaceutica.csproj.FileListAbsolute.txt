@@ -1,0 +1,16 @@
+D:\Farmaceutica\Farmaceutica\bin\Debug\Farmaceutica.exe.config
+D:\Farmaceutica\Farmaceutica\bin\Debug\Farmaceutica.exe
+D:\Farmaceutica\Farmaceutica\bin\Debug\Farmaceutica.pdb
+D:\Farmaceutica\Farmaceutica\obj\Debug\Farmaceutica.csproj.AssemblyReference.cache
+D:\Farmaceutica\Farmaceutica\obj\Debug\Farmaceutica.csproj.SuggestedBindingRedirects.cache
+D:\Farmaceutica\Farmaceutica\obj\Debug\Farmaceutica.csproj.CoreCompileInputs.cache
+D:\Farmaceutica\Farmaceutica\obj\Debug\Farmaceutica.exe
+D:\Farmaceutica\Farmaceutica\obj\Debug\Farmaceutica.pdb
+C:\Users\Español\Downloads\Farmaceutica\Farmaceutica\bin\Debug\Farmaceutica.exe.config
+C:\Users\Español\Downloads\Farmaceutica\Farmaceutica\bin\Debug\Farmaceutica.exe
+C:\Users\Español\Downloads\Farmaceutica\Farmaceutica\bin\Debug\Farmaceutica.pdb
+C:\Users\Español\Downloads\Farmaceutica\Farmaceutica\obj\Debug\Farmaceutica.csproj.AssemblyReference.cache
+C:\Users\Español\Downloads\Farmaceutica\Farmaceutica\obj\Debug\Farmaceutica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Español\Downloads\Farmaceutica\Farmaceutica\obj\Debug\Farmaceutica.csproj.CoreCompileInputs.cache
+C:\Users\Español\Downloads\Farmaceutica\Farmaceutica\obj\Debug\Farmaceutica.exe
+C:\Users\Español\Downloads\Farmaceutica\Farmaceutica\obj\Debug\Farmaceutica.pdb
