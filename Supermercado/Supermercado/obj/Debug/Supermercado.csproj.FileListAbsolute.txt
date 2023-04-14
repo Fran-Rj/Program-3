@@ -1,0 +1,16 @@
+C:\Users\frank\Downloads\Supermercado\Supermercado\bin\Debug\Supermercado.exe.config
+C:\Users\frank\Downloads\Supermercado\Supermercado\bin\Debug\Supermercado.exe
+C:\Users\frank\Downloads\Supermercado\Supermercado\bin\Debug\Supermercado.pdb
+C:\Users\frank\Downloads\Supermercado\Supermercado\obj\Debug\Supermercado.csproj.AssemblyReference.cache
+C:\Users\frank\Downloads\Supermercado\Supermercado\obj\Debug\Supermercado.csproj.SuggestedBindingRedirects.cache
+C:\Users\frank\Downloads\Supermercado\Supermercado\obj\Debug\Supermercado.csproj.CoreCompileInputs.cache
+C:\Users\frank\Downloads\Supermercado\Supermercado\obj\Debug\Supermercado.exe
+C:\Users\frank\Downloads\Supermercado\Supermercado\obj\Debug\Supermercado.pdb
+D:\+UNAB+\GitHub\Program-3\Supermercado\Supermercado\obj\Debug\Supermercado.csproj.AssemblyReference.cache
+D:\+UNAB+\GitHub\Program-3\Supermercado\Supermercado\obj\Debug\Supermercado.csproj.SuggestedBindingRedirects.cache
+D:\+UNAB+\GitHub\Program-3\Supermercado\Supermercado\obj\Debug\Supermercado.csproj.CoreCompileInputs.cache
+D:\+UNAB+\GitHub\Program-3\Supermercado\Supermercado\obj\Debug\Supermercado.exe
+D:\+UNAB+\GitHub\Program-3\Supermercado\Supermercado\obj\Debug\Supermercado.pdb
+D:\+UNAB+\GitHub\Program-3\Supermercado\Supermercado\bin\Debug\Supermercado.exe.config
+D:\+UNAB+\GitHub\Program-3\Supermercado\Supermercado\bin\Debug\Supermercado.exe
+D:\+UNAB+\GitHub\Program-3\Supermercado\Supermercado\bin\Debug\Supermercado.pdb
