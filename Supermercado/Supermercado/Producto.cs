@@ -10,7 +10,6 @@ namespace Supermercado
 {
     internal class Producto
     {
-    
         // METODO PARA OBTENER EL PRODUCTO
         public void Productos(string p1, string p2, string p3, string area, string categ)
         {
@@ -22,6 +21,9 @@ namespace Supermercado
 
             Write("Seleccionar producto: ");
             int opc = int.Parse(ReadLine());
+
+            Write("\nCliente: ");
+            d.nombreCliente = ReadLine();
 
             if (opc == 1)
             {
@@ -36,10 +38,11 @@ namespace Supermercado
                 d.precio = 6;
                 d.fechaCompra = "01/01/2022";
                 d.fechaVenc = "15/06/2022";
+                double total = (d.cantidad * d.precio);
 
                 WriteLine($"Nombre: {d.nombreP} \nCantidad: {d.cantidad} \nPrecio: {d.precio} " +
                     $"\nAdquirido: {d.fechaCompra} \nVence: {d.fechaVenc} \nCategoria: {d.categoria} " +
-                    $"\nÁrea: {d.area} \nProveedor: {d.proveedor}");
+                    $"\nÁrea: {d.area} \nProveedor: {d.proveedor} \nTotal a pagar: {total} \nCliente: {d.nombreCliente}");
                 Write("\nPresiona Enter para continuar. . .");
                 ReadKey();
                 Clear();
@@ -49,17 +52,18 @@ namespace Supermercado
                 Clear();
                 WriteLine("\n--------------Detalles-Producto--------------");
                 d.nombreP = p2;
-                d.proveedor = "Super Selectos";
+                d.proveedor = "Super Selectoss";
                 d.area = area;
                 d.categoria = categ;
                 d.cantidad = 2;
                 d.precio = 8;
                 d.fechaCompra = "21/01/2022";
                 d.fechaVenc = "31/06/2022";
+                double total = (d.cantidad * d.precio);
 
                 WriteLine($"Nombre: {d.nombreP} \nCantidad: {d.cantidad} \nPrecio: {d.precio} " +
                     $"\nAdquirido: {d.fechaCompra} \nVence: {d.fechaVenc} \nCategoria: {d.categoria} " +
-                    $"\nÁrea:{d.area} \nProveedor: {d.proveedor}");
+                    $"\nÁrea:{d.area} \nProveedor: {d.proveedor} \nTotal a pagar: {total} \nCliente: {d.nombreCliente}");
                 Write("\nPresiona Enter para continuar. . .");
                 ReadKey();
                 Clear();
@@ -69,17 +73,18 @@ namespace Supermercado
                 Clear();
                 WriteLine("\n--------------Detalles-Producto--------------");
                 d.nombreP = p3;
-                d.proveedor = "Super Selectos";
+                d.proveedor = "Super Selectosss";
                 d.area = area;
                 d.categoria = categ;
                 d.cantidad = 2;
                 d.precio = 5;
                 d.fechaCompra = "02/01/2022";
                 d.fechaVenc = "17/06/2022";
+                double total = (d.cantidad * d.precio);
 
                 WriteLine($"Nombre: {d.nombreP} \nCantidad: {d.cantidad} \nPrecio: {d.precio} " +
                     $"\nAdquirido: {d.fechaCompra} \nVence: {d.fechaVenc} \nCategoria: {d.categoria} " +
-                    $"\nÁrea: {d.area} \nProveedor: {d.proveedor}");
+                    $"\nÁrea: {d.area} \nProveedor: {d.proveedor} \nTotal a pagar: {total} \nCliente: {d.nombreCliente}");
                 Write("\nPresiona Enter para continuar. . .");
                 ReadKey();
                 Clear();

@@ -134,6 +134,7 @@ namespace Supermercado
                                                     {
                                                         d.area = "Alimentos";
                                                         d.categoria = "Carne";
+
                                                         p.Productos("Menudos", "Chicharrones", "Tortitas", d.area, d.categoria);
                                                         break;
                                                     }

@@ -20,6 +20,9 @@ namespace Supermercado
             Write("Seleccionar producto: ");
             int opc = int.Parse(ReadLine());
 
+            Write("\nCliente: ");
+            d.nombreCliente = ReadLine();
+
             if (opc == 1)
             {
                 // MUESTRAR INFORMACION PRODUCTO
@@ -29,21 +32,24 @@ namespace Supermercado
                 d.cantidad = 3;
                 d.precio = 6;
                 d.fechaVenc = "15/06/2022";
+                double total = (d.cantidad * d.precio);
 
-                WriteLine($"Nombre: {d.nombreP} \nCantidad: {d.cantidad} \nPrecio: {d.precio} \nVence: {d.fechaVenc}");
+                WriteLine($"Nombre: {d.nombreP} \nCantidad: {d.cantidad} \nPrecio: {d.precio} \nVence: {d.fechaVenc} \nTotal a pagar: {total} \nCliente: {d.nombreCliente}");
                 Write("\nPresiona Enter para continuar. . .");
                 ReadKey();
                 Clear();
             }
             else if (opc == 2)
             {
+                Clear();
                 WriteLine("\n--------------Detalles - Venta--------------");
                 d.nombreP = p2;
                 d.cantidad = 2;
                 d.precio = 4;
                 d.fechaVenc = "21/06/2022";
+                double total = (d.cantidad * d.precio);
 
-                WriteLine($"Nombre: {d.nombreP} \nCantidad: {d.cantidad} \nPrecio: {d.precio} \nVence: {d.fechaVenc}");
+                WriteLine($"Nombre: {d.nombreP} \nCantidad: {d.cantidad} \nPrecio: {d.precio} \nVence: {d.fechaVenc} \nTotal a pagar: {total} \nCliente: {d.nombreCliente}");
                 Write("\nPresiona Enter para continuar. . .");
                 ReadKey();
                 Clear();
@@ -56,8 +62,9 @@ namespace Supermercado
                 d.cantidad = 6;
                 d.precio = 9;
                 d.fechaVenc = "31/06/2022";
+                double total = (d.cantidad * d.precio);
 
-                WriteLine($"Nombre: {d.nombreP} \nCantidad: {d.cantidad} \nPrecio: {d.precio} \nVence: {d.fechaVenc}");
+                WriteLine($"Nombre: {d.nombreP} \nCantidad: {d.cantidad} \nPrecio: {d.precio} \nVence: {d.fechaVenc} \nTotal a pagar: {total} \nCliente: {d.nombreCliente}");
                 Write("\nPresiona Enter para continuar. . .");
                 ReadKey();
                 Clear();
